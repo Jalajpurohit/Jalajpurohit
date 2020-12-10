@@ -1,7 +1,4 @@
 <h2 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jalaj Purohit.</h2>
-<p align="center">
-   • <a href="https://maifeeulasad.github.io/">Blog</a> •
-</p>
 
 ### Things I'm familiar with :
  - Android : 
@@ -84,21 +81,12 @@
 <br>
 
 
-### Hackathons List :
+### List :
 
 | Hackathon | Place | Role | Remark |
 | :---: | :---: | :---: | :---: |
-| IIUC Hackathon 2020 | Chittagong | Hacker | First Hackathon | 
-| National Hackathon on Frontier Technologies 2020 | Bangladesh | Hacker | Better luck next time, I guess ?!? | 
-| EDU Engineering Day 2020 | Chittagong | Hacker | Champion 🚩 | 
 
 <br/>
-
-### Online Judges : (2020.09.09)
-| Site | Rank | Solved | Tried | Reference |
-| :---: | :---: | :---: | :---: | :---: |
-| UVa | 2774 | 303 | 419 | https://uhunt.onlinejudge.org/id/822640 |
-| URI | 747 | 379 | 379+40 | https://www.urionlinejudge.com.br/judge/en/profile/142984 |
 
 <br/>
 
@@ -124,7 +112,6 @@ BTW, these stats are based all public contribution. To know about my private con
 
 ### Connect with me:
 
-[<img align="left" alt="maifeeulasad.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="maifeeulasad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="maifeeulasad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="maifeeulasad | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][sof]
@@ -135,9 +122,9 @@ BTW, these stats are based all public contribution. To know about my private con
 
 [twitter]: https://twitter.com/jalaj_purohit
 [linkedin]: https://in.linkedin.com/in/jalajpurohit
-
-
-
+[youtube]: https://in.linkedin.com/in/jalajpurohit
+[sof]: https://in.linkedin.com/in/jalajpurohit
+[instagram]: https://in.linkedin.com/in/jalajpurohit
 
 
 
@@ -164,8 +151,3 @@ BTW, these stats are based all public contribution. To know about my private con
 
 
 <img src="https://komarev.com/ghpvc/?username=maifeeulasad&color=blue&style=flat-square" align="right" />
-
-
-<!--
-http://ionicabizau.github.io/github-profile-languages/?user=maifeeulasad
--->
