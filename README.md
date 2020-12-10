@@ -95,8 +95,8 @@
 <br/>
 
 <!--[My stats](https://github-readme-stats.vercel.app/api?username=jalajpurohit)-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit" /></p>
 
 
 ### Connect with me:
@@ -114,6 +114,7 @@
 [youtube]: https://in.linkedin.com/in/jalajpurohit
 [sof]: https://in.linkedin.com/in/jalajpurohit
 [instagram]: https://in.linkedin.com/in/jalajpurohit
+
 
 <p align="center">
 <a href="https://codepen.io/jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jalajpurohit" height="22" width="22" /></a>
