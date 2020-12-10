@@ -1,11 +1,7 @@
-<h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ! I'm Jalaj Purohit.</h2>
+<h2 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jalaj Purohit.</h2>
 <p align="center">
    • <a href="https://maifeeulasad.github.io/">Blog</a> •
 </p>
-
-If you have made this far, I will make an wild guess - you already know me, right? But, what if you don't. 
-
-I'm not who I'm, I'm what I'm. And these "what"s changes from time to time, dynamic. So I will give you links only.
 
 ### Things I'm familiar with :
  - Android : 
@@ -137,12 +133,8 @@ BTW, these stats are based all public contribution. To know about my private con
 
 <br />
 
-[website]: http://maifeeulasad.github.io/
-[twitter]: https://twitter.com/Maifeeulasad
-[youtube]: https://www.youtube.com/channel/UCYvxpsCWZOl7nn9h-F17x4Q
-[instagram]: https://www.instagram.com/maifee007/
-[linkedin]: https://www.linkedin.com/in/maifee-ul-asad/
-[sof]: https://stackoverflow.com/users/10305444/maifee-ul-asad?tab=profile
+[twitter]: https://twitter.com/jalaj_purohit
+[linkedin]: https://in.linkedin.com/in/jalajpurohit
 
 
 
