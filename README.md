@@ -127,7 +127,7 @@
 
 <br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit" width="220" height="220"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit" /></p>
 
 
