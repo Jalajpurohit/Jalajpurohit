@@ -152,4 +152,4 @@ BTW, these stats are based all public contribution. To know about my private con
 
 <img src="https://komarev.com/ghpvc/?username=maifeeulasad&color=blue&style=flat-square" align="right" />
 
-http://ionicabizau.github.io/github-profile-languages/?user=maifeeulasad
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Jalajpurohit" frameborder="0"></iframe>
