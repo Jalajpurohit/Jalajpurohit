@@ -76,7 +76,7 @@
   <img alt="Prolog" src="https://img.shields.io/badge/-Prolog-050505?style=flat-square&logo=Prolog&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41cd52?style=flat-square&logo=Qt&logoColor=white" />
   <img alt="AVR" src="https://img.shields.io/badge/-AVR-5382a1?style=flat-square&logo=AVR&logoColor=white" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="22" height="22"/>
+  <img alt="blender" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="22" height="22"/>
   <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="22" height="22"/>
@@ -128,7 +128,7 @@
 <br/>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit" width="350" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit" width="350" height="165"/></p>
 
 
 ### Connect with me:
