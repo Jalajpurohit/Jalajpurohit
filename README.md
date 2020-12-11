@@ -76,8 +76,8 @@
 
 <br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit" width="350" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit" width="350" height="165"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit"/></p>
 
 
 ### Connect with me:
@@ -98,14 +98,22 @@
 
 
 <p align="center">
-<a href="https://codepen.io/jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://dev.to/jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://twitter.com/jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://stackoverflow.com/users/10305444/maifee-ul-asad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10305444/maifee-ul-asad" height="22" width="22" /></a>
-<a href="https://kaggle.com/jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://fb.com/jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://medium.com/@jalajpurohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jalajpurohit" height="22" width="22" /></a>
+<a href="https://codepen.io/jalajpurohit" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jalajpurohit" height="22" width="22" /></a>
+<a href="https://dev.to/jalajpurohit" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jalajpurohit" height="22" width="22" /></a>
+<a href="https://twitter.com/jalajpurohit" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jalajpurohit" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/jalajpurohit" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jalajpurohit" height="22" width="22" /></a>
+<a href="https://stackoverflow.com/users/10305444/maifee-ul-asad" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10305444/maifee-ul-asad" height="22" width="22" /></a>
+<a href="https://kaggle.com/jalajpurohit" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jalajpurohit" height="22" width="22" /></a>
+<a href="https://fb.com/jalajpurohit" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jalajpurohit" height="22" width="22" /></a>
+<a href="https://medium.com/@jalajpurohit" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jalajpurohit" height="22" width="22" /></a>
 </p>
 
 
