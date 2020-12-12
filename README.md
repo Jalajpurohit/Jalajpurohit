@@ -82,39 +82,31 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jalajpurohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jalajpurohit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jalajpurohit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][sof]
-[<img align="left" alt="jalajpurohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jalajpurohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="jalajpurohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="jalajpurohit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="jalajpurohit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][SOF]
+[<img align="left" alt="jalajpurohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="jalajpurohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jalajpurohit" height="22" width="22" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jalajpurohit" height="22" width="22" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jalajpurohit" height="22" width="22" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jalajpurohit" height="22" width="22" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10305444/maifee-ul-asad" height="22" width="22" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jalajpurohit" height="22" width="22" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jalajpurohit" height="22" width="22" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jalajpurohit" height="22" width="22" />
 <br />
 
-[twitter]: https://twitter.com/jalaj_purohit
-[linkedin]: https://in.linkedin.com/in/jalajpurohit
-[youtube]: https://in.linkedin.com/in/jalajpurohit
-[sof]: https://in.linkedin.com/in/jalajpurohit
-[instagram]: https://in.linkedin.com/in/jalajpurohit
-
-
-<p align="center">
-<a href="https://codepen.io/jalajpurohit" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://dev.to/jalajpurohit" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://twitter.com/jalajpurohit" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/jalajpurohit" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://stackoverflow.com/users/10305444/maifee-ul-asad" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10305444/maifee-ul-asad" height="22" width="22" /></a>
-<a href="https://kaggle.com/jalajpurohit" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://fb.com/jalajpurohit" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jalajpurohit" height="22" width="22" /></a>
-<a href="https://medium.com/@jalajpurohit" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jalajpurohit" height="22" width="22" /></a>
-</p>
+[Twitter]: https://twitter.com/jalaj_purohit
+[Linkedin]: https://in.linkedin.com/in/jalajpurohit
+[Youtube]: https://in.linkedin.com/in/jalajpurohit
+[SOF]: https://in.linkedin.com/in/jalajpurohit
+[Instagram]: https://in.linkedin.com/in/jalajpurohit
+[Codepen]: https://codepen.io/jalajpurohit
+[Dev.to]: https://dev.to/jalajpurohit
+[Kaggle]: https://kaggle.com/jalajpurohit
+[Facebook]: https://fb.com/jalajpurohit
+[Medium]: https://medium.com/@jalajpurohit
 
 
 <img src="https://komarev.com/ghpvc/?username=jalajpurohit&color=blue&style=flat-square" align="right" />
