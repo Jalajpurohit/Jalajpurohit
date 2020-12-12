@@ -87,11 +87,11 @@
 [<img align="left" alt="jalajpurohit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][SOF]
 [<img align="left" alt="jalajpurohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="jalajpurohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="jalajpurohit | Codepen" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][Codepen]
-[<img align="left" alt="jalajpurohit | Dev.to" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][Dev.to]
-[<img align="left" alt="jalajpurohit | Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][Kaggle]
-[<img align="left" alt="jalajpurohit | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="jalajpurohit | Medium" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][Medium]
+[<img align="left" alt="jalajpurohit | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][Codepen]
+[<img align="left" alt="jalajpurohit | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][Dev.to]
+[<img align="left" alt="jalajpurohit | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][Kaggle]
+[<img align="left" alt="jalajpurohit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="jalajpurohit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][Medium]
 <br />
 
 [Twitter]: https://twitter.com/jalaj_purohit
