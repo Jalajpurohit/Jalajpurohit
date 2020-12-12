@@ -87,14 +87,11 @@
 [<img align="left" alt="jalajpurohit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][SOF]
 [<img align="left" alt="jalajpurohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="jalajpurohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jalajpurohit" height="22" width="22" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jalajpurohit" height="22" width="22" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jalajpurohit" height="22" width="22" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jalajpurohit" height="22" width="22" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10305444/maifee-ul-asad" height="22" width="22" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jalajpurohit" height="22" width="22" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jalajpurohit" height="22" width="22" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jalajpurohit" height="22" width="22" />
+[<img align="left" alt="jalajpurohit | Codepen" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][Codepen]
+[<img align="left" alt="jalajpurohit | Dev.to" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][Dev.to]
+[<img align="left" alt="jalajpurohit | Kaggle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][Kaggle]
+[<img align="left" alt="jalajpurohit | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="jalajpurohit | Medium" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][Medium]
 <br />
 
 [Twitter]: https://twitter.com/jalaj_purohit
