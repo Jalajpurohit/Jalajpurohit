@@ -17,12 +17,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="jalajpurohit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="jalajpurohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jalajpurohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jalajpurohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jalajpurohit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][SOF]
+[<img align="left" alt="jalajpurohit | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][codepen]
+[<img align="left" alt="jalajpurohit | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="jalajpurohit | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="jalajpurohit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />][facebook]
+[<img align="left" alt="jalajpurohit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
@@ -97,41 +101,18 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-[Twitter]: https://twitter.com/jalaj_purohit
-[Linkedin]: https://in.linkedin.com/in/jalajpurohit
-[Youtube]: https://in.linkedin.com/in/jalajpurohit
+[twitter]: https://twitter.com/jalaj_purohit
+[youtube]: https://in.linkedin.com/in/jalajpurohit
+[instagram]: https://in.linkedin.com/in/jalajpurohit
 [SOF]: https://in.linkedin.com/in/jalajpurohit
-[Instagram]: https://in.linkedin.com/in/jalajpurohit
-[Codepen]: https://codepen.io/jalajpurohit
-[Dev.to]: https://dev.to/jalajpurohit
-[Kaggle]: https://kaggle.com/jalajpurohit
-[Facebook]: https://fb.com/jalajpurohit
-[Medium]: https://medium.com/@jalajpurohit
+[linkedin]: https://in.linkedin.com/in/jalajpurohit
+[codepen]: https://codepen.io/jalajpurohit
+[dev.to]: https://dev.to/jalajpurohit
+[kaggle]: https://kaggle.com/jalajpurohit
+[facebook]: https://fb.com/jalajpurohit
+[medium]: https://medium.com/@jalajpurohit
 
-### Connect with me:
 
-[<img align="left" alt="jalajpurohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="jalajpurohit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
-[<img align="left" alt="jalajpurohit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][SOF]
-[<img align="left" alt="jalajpurohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="jalajpurohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="jalajpurohit | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][Codepen]
-[<img align="left" alt="jalajpurohit | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][Dev.to]
-[<img align="left" alt="jalajpurohit | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />][Kaggle]
-[<img align="left" alt="jalajpurohit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="jalajpurohit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][Medium]
-<br />
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -209,19 +190,3 @@
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <br>
-
-
-### List :
-
-| Hackathon | Place | Role | Remark |
-| :---: | :---: | :---: | :---: |
-
-<br/>
-
-<br/>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=jalajpurohit" alt="jalajpurohit"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalajpurohit&layout=compact" alt="jalajpurohit"/></p>
-
-
-<img src="https://komarev.com/ghpvc/?username=jalajpurohit&color=blue&style=flat-square" align="right" />
