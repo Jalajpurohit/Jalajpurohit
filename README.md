@@ -30,23 +30,24 @@
  - Android : 
    <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
+   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5382a1?style=flat-square&logo=Flutter&logoColor=white" />
  
  - Web : 
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-   <img alt="typescript" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="22" height="22"/>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" />
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
    <img alt="C" src="https://img.shields.io/badge/-C-5382a1?style=flat-square&logo=C&logoColor=white" />
    <img alt="CPP" src="https://img.shields.io/badge/-CPP-5382a1?style=flat-square&logo=CPP&logoColor=white" />
-   <img alt="css3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="22" height="22"/>
+   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-5382a1?style=flat-square&logo=CSS3&logoColor=white" />
    <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
-   <img alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="22" height="22"/>
-   <img alt="linux" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="22" height="22"/>
+   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-050505?style=flat-square&logo=Bootstrap&logoColor=white" />
+   <img alt="Linux" src="https://img.shields.io/badge/-Linux-050505?style=flat-square&logo=Linux&logoColor=white" />
  
  - Back-end : 
    <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
+   <img alt="Flask" src="https://img.shields.io/badge/-Flask-f8c256?style=flat-square&logo=Flask&logoColor=white" />
    <img alt="flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="22" height="22"/>
   
  - Package Management/Publishing :
@@ -76,19 +77,6 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
