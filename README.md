@@ -29,7 +29,7 @@
    <img alt="Android" src="https://img.shields.io/badge/-Android-32de84?style=flat-square&logo=Android&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-32de84?style=flat-square&logo=Flutter&logoColor=white" />
-   <img alt="Flutter2" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="22" height="22"/>
+   <img alt="Flutter2" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="22" height="22"/>
  
  - Web : 
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
