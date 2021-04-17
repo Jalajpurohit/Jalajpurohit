@@ -61,6 +61,8 @@
    
  - Machine Learning/Data Science :
    <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FBBC05?style=flat-square&logo=Tensorflow&logoColor=white" />
+   <img alt="TF" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/>
+   <img alt="TF2" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="22" height="22"/>
    <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
    <img alt="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="22" height="22"/>
    
