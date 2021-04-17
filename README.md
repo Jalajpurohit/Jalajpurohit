@@ -1,6 +1,4 @@
-### Hi there, I'm Jalaj 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/jalaj_purohit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjalaj_purohit&screen_name=jalaj_purohit)
+### Hi there, I'm Jalaj 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/jalaj_purohit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjalaj_purohit&screen_name=jalaj_purohit)
 
 ## I'm a Developer!!
 
@@ -41,7 +39,7 @@
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-5382a1?style=flat-square&logo=CSS3&logoColor=white" />
    <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-050505?style=flat-square&logo=OpenSSL&logoColor=white" />
    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-050505?style=flat-square&logo=Bootstrap&logoColor=white" />
-   <img alt="Linux" src="https://img.shields.io/badge/-Linux-050505?style=flat-square&logo=Linux&logoColor=white" />
+   <img alt="Linux" src="https://img.shields.io/badge/-Linux-5382a1?style=flat-square&logo=Linux&logoColor=white" />
  
  - Back-end : 
    <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
