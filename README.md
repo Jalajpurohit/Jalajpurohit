@@ -60,7 +60,7 @@
    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
    
  - Machine Learning/Data Science :
-   <img alt="Tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="22"/>
+   <img alt="Tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/>
    <img alt="Keras" src="https://img.shields.io/badge/-Keras-FB0000?style=flat-square&logo=Keras&logoColor=white" />
    <img alt="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="22" height="22"/>
    
